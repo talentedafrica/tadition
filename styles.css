@@ -1,0 +1,17 @@
+body {
+	background-color: yellow;
+	color: black;
+	text-align: center;
+}
+h1 {
+	font-family: arial;
+	color: red;
+}
+h2 {
+	font-family: verdana;
+	color: blue;
+}
+p {
+	font-family: arial;
+	color: orange;
+}
